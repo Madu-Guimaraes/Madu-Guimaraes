@@ -1,4 +1,4 @@
-## Olá! Eu sou a Madu Guimaraes 😁
+## Olá! Eu sou a Maria Guimaraes 😁
 
  <div>
    <a href="https://github.com/Madu-Guimaraes">
