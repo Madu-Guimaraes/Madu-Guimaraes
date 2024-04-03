@@ -1,5 +1,8 @@
 ## Olá! Eu sou a Maria Guimaraes 😁
 
+- 🔭 Em busca de uma oportunidade na área de Front-End
+- 🌱 Estudando JavaScript
+
  <div>
    <a href="https://github.com/Madu-Guimaraes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madu-Guimaraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
