@@ -29,3 +29,5 @@
 </div>
 
 ![Snake animation](https://github.com/Madu-Guimaraes/Madu-Guimaraes/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Madu-Guimaraes&repo=Madu-Guimaraes&theme=react)](https://github.com/Madu-Guimaraes/Madu-Guimaraes)
