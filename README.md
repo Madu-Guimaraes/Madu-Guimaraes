@@ -27,7 +27,3 @@
   <a href="https://www.linkedin.com/in/maria-eduarda-guimar%C3%A3es-carvalho-15aa74232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <img align="right" alt="Dudapixel" height="130em" src="https://github.com/Madu-Guimaraes/Madu-Guimaraes/assets/146151781/541978cc-90d2-41fc-be41-77f0e4ad346f)">
 </div>
-
-![Snake animation](https://github.com/Madu-Guimaraes/Madu-Guimaraes/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Madu-Guimaraes&repo=Madu-Guimaraes&theme=react)](https://github.com/Madu-Guimaraes/Madu-Guimaraes)
