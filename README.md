@@ -28,3 +28,4 @@
  <img align="right" alt="Dudapixel" height="130em" src="https://github.com/Madu-Guimaraes/Madu-Guimaraes/assets/146151781/541978cc-90d2-41fc-be41-77f0e4ad346f)">
 </div>
 
+![Snake animation](https://github.com/Madu-Guimaraes/Madu-Guimaraes/blob/output/github-contribution-grid-snake.svg)
