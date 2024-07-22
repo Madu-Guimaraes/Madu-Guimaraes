@@ -1,5 +1,6 @@
-## Olá! Eu sou a Madu Guimarães Carvalho
-
+# Olá! Eu sou a Madu Guimarães Carvalho
+<img align="right" height="180" src="https://github.com/user-attachments/assets/ee9a437b-9c58-40a5-a365-c521922b38e1"/>
+</br>
 Sou uma desenvolvedora Front-End apaixonada por criar interfaces elegantes e funcionais. Estou constantemente buscando novas oportunidades para aplicar e aprimorar minhas habilidades. Atualmente, estou focada em JavaScript e outras tecnologias que me permitam desenvolver soluções modernas e eficazes.
 
 - 🔭 **Em busca de uma oportunidade na área de Front-End**
