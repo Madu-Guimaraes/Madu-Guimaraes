@@ -26,8 +26,8 @@ Sou uma desenvolvedora Front-End apaixonada por criar interfaces elegantes e fun
 ### Conecte-se Comigo
 
 <div>
-  <a href="https://www.linkedin.com/in/madu-guimaraes-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:madu.guimaraes@example.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maducode/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:mariaguimar2330@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/Madu-Guimaraes" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/_mariaguimar_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <img align="right" alt="Dudapixel" height="130em" src="https://github.com/Madu-Guimaraes/Madu-Guimaraes/assets/146151781/541978cc-90d2-41fc-be41-77f0e4ad346f)">
