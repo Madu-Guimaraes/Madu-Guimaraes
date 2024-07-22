@@ -1,7 +1,7 @@
 # Olá! Eu sou a Madu Guimarães Carvalho
 <img align="right" height="180" src="https://github.com/user-attachments/assets/ee9a437b-9c58-40a5-a365-c521922b38e1"/>
-</br>
 Sou uma desenvolvedora Front-End apaixonada por criar interfaces elegantes e funcionais. Estou constantemente buscando novas oportunidades para aplicar e aprimorar minhas habilidades. Atualmente, estou focada em JavaScript e outras tecnologias que me permitam desenvolver soluções modernas e eficazes.
+<br></br>
 
 - 🔭 **Em busca de uma oportunidade na área de Front-End**
 - 🌱 **Estudando:** JavaScript.
@@ -30,8 +30,5 @@ Sou uma desenvolvedora Front-End apaixonada por criar interfaces elegantes e fun
   <a href="mailto:madu.guimaraes@example.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/Madu-Guimaraes" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/_mariaguimar_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
- 
-<div>
- <img align="right" alt="Dudapixel" height="130em" src="https://github.com/Madu-Guimaraes/Madu-Guimaraes/assets/146151781/541978cc-90d2-41fc-be41-77f0e4ad346f)">
+   <img align="right" alt="Dudapixel" height="130em" src="https://github.com/Madu-Guimaraes/Madu-Guimaraes/assets/146151781/541978cc-90d2-41fc-be41-77f0e4ad346f)">
 </div>
