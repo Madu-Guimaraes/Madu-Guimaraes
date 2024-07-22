@@ -4,8 +4,8 @@ Sou uma desenvolvedora Front-End apaixonada por criar interfaces elegantes e fun
 <br></br>
 
 - 🔭 **Em busca de uma oportunidade na área de Front-End**
-- 🌱 **Estudando:** JavaScript.
-- 🎨 **Hobbies:** Desenho, música e carros clássicos.
+- 🌱 **Estudando:** JavaScript
+- 🎨 **Hobbies:** Desenho, música e carros clássicos
 
 ### Minhas Estatísticas no GitHub
 
